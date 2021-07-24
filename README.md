@@ -20,8 +20,10 @@ Configure streak: http://github-readme-streak-stats.herokuapp.com/demo/?user=gam
 
 Testing:
 
-![](https://img.shields.io/badge/C_Sharp-informational?style=plastic&logo=c&logoColor=white&color=green)
-![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/C%20Sharp-informational?style=plastic&logo=csharp&logoColor=white&color=purple)
+![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Node%20JS-informational?style=plastic&logo=nodedotjs&logoColor=white&color=cyan)
+![](https://img.shields.io/badge/.Net-informational?style=plastic&logo=dotnet&logoColor=white&color=green)
 
 [![Gamosoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamosoft&count_private=true&theme=dracula)](https://github.com/gamosoft)
 
