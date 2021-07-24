@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **gamosoft/gamosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,17 +18,15 @@ Configure streak: http://github-readme-streak-stats.herokuapp.com/demo/?user=gam
 
 -->
 
-Testing:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamosoft&count_private=true&theme=dracula)
 
-![](https://img.shields.io/badge/C%20Sharp-informational?style=plastic&logo=csharp&logoColor=white&color=purple)
-![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Node%20JS-informational?style=plastic&logo=nodedotjs&logoColor=white&color=cyan)
-![](https://img.shields.io/badge/.Net-informational?style=plastic&logo=dotnet&logoColor=white&color=green)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gamosoft&theme=dracula)
 
-[![Gamosoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamosoft&count_private=true&theme=dracula)](https://github.com/gamosoft)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamosoft&count_private=true&theme=dracula)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gamosoft&theme=dracula)](https://github.com/gamosoft)
+![C#](https://img.shields.io/badge/C%20Sharp-informational?style=plastic&logo=csharp&logoColor=white&color=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=cyan)
+![NodeJS](https://img.shields.io/badge/Node%20JS-informational?style=plastic&logo=nodedotjs&logoColor=white&color=green)
+![.Net](https://img.shields.io/badge/.Net-informational?style=plastic&logo=dotnet&logoColor=white&color=purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamosoft&count_private=true&theme=dracula)](https://github.com/gamosoft)
-
-![Profile Views](https://komarev.com/ghpvc/?username=gamosoft)
+![Profile Views](https://komarev.com/ghpvc/?username=gamosoft&style=plastic)
