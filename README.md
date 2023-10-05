@@ -17,14 +17,21 @@ Here are some ideas to get you started:
 Configure streak: http://github-readme-streak-stats.herokuapp.com/demo/?user=gamosoft&theme=dracula&hide_border=false&properties=background
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamosoft&count_private=true&theme=dracula)
+
+
+| Github Streak | Github Stats |
+| - | - |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=gamosoft&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamosoft&count_private=true&theme=dracula) |
+
 -->
 
 # Resume:
 ## [https://gamosoft.github.io](https://gamosoft.github.io)
 
-| Github Streak | Github Stats |
+| Top Languages | Github Stats |
 | - | - |
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=gamosoft&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamosoft&count_private=true&theme=dracula) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamosoft&count_private=true&theme=dracula) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamosoft&count_private=true&theme=dracula) |
+
 
 
 
