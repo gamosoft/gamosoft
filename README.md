@@ -19,9 +19,12 @@ Configure streak: http://github-readme-streak-stats.herokuapp.com/demo/?user=gam
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamosoft&count_private=true&theme=dracula)
 -->
 
+# Resume:
+## [https://gamosoft.github.io](https://gamosoft.github.io)
+
 | Github Streak | Github Stats |
 | - | - |
-| ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gamosoft&theme=dracula) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamosoft&count_private=true&theme=dracula) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=gamosoft&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamosoft&count_private=true&theme=dracula) |
 
 
 
